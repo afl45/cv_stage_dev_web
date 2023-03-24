@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'nexaheavy';
-    src: url('/src/font/nexa-heavy-webfont.woff2') format('woff2'),
-         url('/src/font/nexa-heavy-webfont.woff') format('woff');
+    src: url('nexa-heavy-webfont.woff2') format('woff2'),
+         url('nexa-heavy-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
